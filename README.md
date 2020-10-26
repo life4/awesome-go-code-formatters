@@ -13,7 +13,7 @@ A curated list of [Go](https://golang.org/) code formatters.
 * [keyify](https://github.com/dominikh/go-tools/tree/master/cmd/keyify) -- turns unkeyed struct literals into keyed ones.
 * [unconvert](https://github.com/mdempsky/unconvert) -- removes unnecessary type conversions.
 
-## Import formatters
+## Imports formatters
 
 * [dedupimport](https://github.com/nishanths/dedupimport) -- fixes duplicate named/unnamed imports that have the same import path
 * [gci](https://github.com/daixiang0/gci) -- controls package import order and make it always deterministic.
