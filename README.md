@@ -19,3 +19,9 @@ A curated list of [Go](https://golang.org/) code formatters.
 * [gci](https://github.com/daixiang0/gci) -- controls package import order and make it always deterministic.
 * [goimports-reviser](https://github.com/incu6us/goimports-reviser) -- goimports alternative.
 * [goimports](https://pkg.go.dev/golang.org/x/tools/cmd/goimports) -- adds missing imports and removes unused ones.
+
+## See also
+
+* [awesome-go-linters](https://github.com/golangci/awesome-go-linters)
+* [awesome-python-code-formatters](https://github.com/life4/awesome-python-code-formatters)
+* [awesome-go](https://github.com/avelino/awesome-go)
