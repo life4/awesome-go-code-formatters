@@ -1,4 +1,4 @@
-# Awesome go code formatters
+# Awesome Go code formatters
 
 A curated list of [Go](https://golang.org/) code formatters.
 
@@ -6,7 +6,7 @@ A curated list of [Go](https://golang.org/) code formatters.
 
 * [gofmt](https://golang.org/cmd/gofmt/) -- the default built-in formatter.
 * [go-parsefix](https://github.com/quasilyte/go-parsefix) -- fixes simple parse errors.
-* [go-ruleguard](https://github.com/quasilyte/go-ruleguard) -- analysis-based Go linter that runs dynamically loaded rules.
+* [go-ruleguard](https://github.com/quasilyte/go-ruleguard) -- analysis-based formatter based on custom rules.
 * [gofumpt](https://github.com/mvdan/gofumpt) -- a stricter gofmt.
 * [golines](https://github.com/segmentio/golines) -- fixes long lines.
 * [goreturns](https://github.com/sqs/goreturns) -- fills in return statements with zero values to match the func return types.
