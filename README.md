@@ -20,6 +20,10 @@ A curated list of [Go](https://golang.org/) code formatters.
 * [goimports-reviser](https://github.com/incu6us/goimports-reviser) -- goimports alternative.
 * [goimports](https://pkg.go.dev/golang.org/x/tools/cmd/goimports) -- adds missing imports and removes unused ones.
 
+## Code generators
+
+* [stringer](https://godoc.org/golang.org/x/tools/cmd/stringer) -- generates string representation for integer constants.
+
 ## See also
 
 * [awesome-go-linters](https://github.com/golangci/awesome-go-linters)
