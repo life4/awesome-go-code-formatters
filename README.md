@@ -12,6 +12,7 @@ A curated list of [Go](https://golang.org/) code formatters.
 * [goreturns](https://github.com/sqs/goreturns) -- fills in return statements with zero values to match the func return types.
 * [keyify](https://github.com/dominikh/go-tools/tree/master/cmd/keyify) -- turns unkeyed struct literals into keyed ones.
 * [unconvert](https://github.com/mdempsky/unconvert) -- removes unnecessary type conversions.
+* [structslop](https://github.com/orijtech/structslop) -- checks struct can be re-arranged fields to get optimal struct size (can reduce memory use in large collections of struct instances) -- [Medium article here](https://medium.com/orijtech-developers/efficient-struct-packing-guided-pass-for-go-92255872ec72).
 
 ## Imports formatters
 
